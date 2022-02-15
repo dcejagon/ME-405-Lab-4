@@ -17,5 +17,5 @@ The plot below demonstrates a pretty exact step response. If we were to run our
 code on a circuit that uses a 10uF capacitor instead of a 1uF capacitor, we would
 expect to see a gradual and smooth response instead of a sharp step seen in
 our plot. 
-![RC Circuit Response](INSERT_IMAGE_HYPERLINK_HERE)
+![RC Circuit Response](https://github.com/dcejagon/ME-405-Lab-4/blob/999794663a00441d3c52f93647251b1937c19a7f/RC_Circuit_Responce.png)
 RC circuit response to initial loading. 
